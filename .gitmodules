@@ -1,0 +1,3 @@
+[submodule "basic-utils"]
+	path = basic-utils
+	url = git@github.com:hacksmith007/basic-utils.git
