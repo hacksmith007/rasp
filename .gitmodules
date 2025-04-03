@@ -1,9 +1,6 @@
 [submodule "basic-utils"]
 	path = basic-utils
 	url = git@github.com:hacksmith007/basic-utils.git
-[submodule "openyuma"]
-	path = openyuma
-	url = https://github.com/hacksmith007/openyuma.git
 [submodule "AetherLink-yang"]
 	path = AetherLink-yang
-	url = https://github.com/hacksmith007/AetherLink-yang.git
+	url = git@github.com:hacksmith007/AetherLink-yang.git
