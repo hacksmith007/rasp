@@ -4,3 +4,6 @@
 [submodule "AetherLink-yang"]
 	path = AetherLink-yang
 	url = git@github.com:hacksmith007/AetherLink-yang.git
+[submodule "openyuma"]
+	path = openyuma
+	url = git@github.com:hacksmith007/openyuma.git
